@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.721,C:\Users\ssani\Desktop\KennlinienProject\GlobalFunc.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,=C:\Users\ssani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,=C:\Users\ssani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Users\ssani\Desktop\KennlinienProject\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,=C:\Users\ssani\Desktop\KennlinienProject\GlobalFunc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\ssani\Desktop\KennlinienProject\GlobalKenn.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,=C:\Users\ssani\Desktop\KennlinienProject\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Users\ssani\Desktop\KennlinienProject\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\ssani\Desktop\KennlinienProject\Unit6.pas=C:\Users\ssani\Desktop\KennlinienProject\Kennlinienbearbeitung.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,C:\Users\ssani\Desktop\KennlinienProject\GlobalDef.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=C:\Users\ssani\Desktop\KennlinienProject\GlobalDef.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\ssani\Desktop\KennlinienProject\GlobalDef.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\ssani\Desktop\KennlinienProject\Unit1.pas=C:\Users\ssani\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\ssani\Desktop\KennlinienProject\Unit5.pas=C:\Users\ssani\Desktop\KennlinienProject\DatenEinlesen.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=C:\Users\ssani\Desktop\KennlinienProject\Global_CAN.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,C:\Users\ssani\Desktop\KennlinienProject\Global_CAN.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\ssani\Desktop\KennlinienProject\Global_CAN.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,=C:\Users\ssani\Desktop\KennlinienProject\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,=C:\Users\ssani\Desktop\KennlinienProject\GlobalKenn.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Users\ssani\Desktop\KennlinienProject\Kennlinienbearbeitung.pas=C:\Users\ssani\Desktop\KennlinienProject\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,C:\Users\ssani\Desktop\KennlinienProject\Kennlinienbearbeitung.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,C:\Users\ssani\Desktop\KennlinienProject\DatenSenden.dfm=C:\Users\ssani\Desktop\KennlinienProject\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,=C:\Users\ssani\Desktop\KennlinienProject\GlobalFunction.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,C:\Users\ssani\Desktop\KennlinienProject\Project1.dproj=C:\Users\ssani\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=C:\Users\ssani\Desktop\KennlinienProject\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,C:\Users\ssani\Desktop\KennlinienProject\Kennlinien.dfm=C:\Users\ssani\Desktop\KennlinienProject\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=C:\Users\ssani\Desktop\KennlinienProject\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,=C:\Users\ssani\Desktop\KennlinienProject\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Users\ssani\Desktop\KennlinienProject\Kennlinienbearbeitung.dfm=C:\Users\ssani\Desktop\KennlinienProject\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,C:\Users\ssani\Desktop\KennlinienProject\DatenSenden.pas=C:\Users\ssani\Desktop\KennlinienProject\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\ssani\Desktop\KennlinienProject\Unit6.dfm=C:\Users\ssani\Desktop\KennlinienProject\Kennlinienbearbeitung.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,=C:\Users\ssani\Desktop\KennlinienProject\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\ssani\Desktop\KennlinienProject\Unit1.dfm=C:\Users\ssani\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,C:\Users\ssani\Desktop\KennlinienProject\KennlinienStandardDefault.pas=C:\Users\ssani\Desktop\KennlinienProject\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,=C:\Users\ssani\Desktop\KennlinienProject\pcan_usb.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,C:\Users\ssani\Desktop\KennlinienProject\Kennlinien.pas=C:\Users\ssani\Desktop\KennlinienProject\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\ssani\Desktop\KennlinienProject\Unit5.dfm=C:\Users\ssani\Desktop\KennlinienProject\DatenEinlesen.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
